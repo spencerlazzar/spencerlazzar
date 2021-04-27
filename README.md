@@ -1,9 +1,16 @@
 
 # Welcome to my GitHub page!
 
-🏗 Under construction
 
-💾 I'm currently learning everything JavaScript and React. While I have spent plenty of time learning these two, my motto is "Always Learning!"
+- 💾 I'm currently learning everything JavaScript and React. While I have spent plenty of time learning these two, my motto is "Always Learning!"
+
+- 📫 How to reach me: spencerlazzar@yahoo.com socal: @spencerlazzar
+
+- 😄 Pronouns: He/Him
+
+- 🏄‍ Ask me about the time I paddled from Maui to Molokia on a Stand up Paddleboard
+
+
 
 
 
