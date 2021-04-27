@@ -3,6 +3,10 @@
 
 🏗 Under construction
 
+💾 I'm currently learning everything JavaScript and React. While I have spent plenty of time learning these two, my motto is "Always Learning!"
+
+
+
 <!--
 **spencerlazzar/spencerlazzar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
