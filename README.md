@@ -9,7 +9,7 @@
 
 - 🏄‍ Ask me about the time I paddled from Maui to Molokia on a Stand up Paddleboard
 
-*** Paddleboarding is how I clear my mind and spend time outside
+**Paddleboarding is how I clear my mind and spend time outside**
 
 
 ![89071638_10218796810923923_397998431588581376_o](https://user-images.githubusercontent.com/61704549/116324994-03671980-a776-11eb-9478-71415270e2a2.jpg)
