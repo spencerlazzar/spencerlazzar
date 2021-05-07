@@ -9,7 +9,7 @@
 
 - 🏄‍ Ask me about the time I paddled from Maui to Molokia on a Stand up Paddleboard
 
-- Checkout my updated porfolio website! As always I have some tweaking to do but it's a start! [spencerlazzar.com](spencerlazzar.com)
+- Checkout my updated porfolio website! As always I have some tweaking to do but it's a start! [spencerlazzar.com](https://spencerportfolio.netlify.app/)
 
 **Paddleboarding is how I clear my mind and spend time outside**
 
