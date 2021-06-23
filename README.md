@@ -3,7 +3,7 @@
 
 - Checkout my updated porfolio website! As always I have some tweaking to do but it's a start! [spencerlazzar.com](https://spencerportfolio.netlify.app/)
 
-- 💾 I'm currently learning everything JavaScript and React. While I have spent plenty of time learning these two, my motto is "Always Learning"
+- 💾 I'm currently learning everything JavaScript, React and dabbling with Nextjs. While I have spent plenty of time learning these two, my motto is "Always Learning"
 
 - Also I am really enjoying diving into everything AWS has to offer. Currently working on deploying different React applications via AWS Amplify.
 
