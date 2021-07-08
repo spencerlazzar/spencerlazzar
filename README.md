@@ -7,7 +7,7 @@
 
 - Also I am really enjoying diving into everything AWS has to offer. Currently working on deploying different React applications via AWS Amplify.
 
-- 📫 How to reach me: spencerlazzar@yahoo.com socal: @spencerlazzar
+- 📫 How to reach me: spencerlazzar@yahoo.com social: @spencerlazzar
 
 - 🏄‍ Ask me about the time I paddled from Maui to Molokia on a Stand up Paddleboard
 
