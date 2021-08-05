@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/spencelazzar" target="blank"><img src="https://img.shields.io/twitter/follow/spencelazzar?logo=twitter&style=for-the-badge" alt="spencelazzar" /></a> </p>
 
-- 🔭 I’m currently working on [React Meetup App](https://github.com/spencerlazzar/meetup_app)
+- 🔭 I’m currently working on a Yelp clone [Ravenous](https://github.com/spencerlazzar/ravenous)
 
 - 🌱 I’m currently learning **React & React Native**
 
